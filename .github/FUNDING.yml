@@ -1,6 +1,6 @@
 # These are supported funding model platforms
 
-github: [us3rn1me] # Up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
+github: # Up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
 patreon: # A single Patreon username
 open_collective: # A single Open Collective username
 ko_fi: # A single Ko-fi username
